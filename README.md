@@ -2,3 +2,5 @@
 <<<<<<< HEAD
 Creating a new branch is quick AND simple
 add merge
+
+another edit add env
